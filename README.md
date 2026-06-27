@@ -1,5 +1,7 @@
 # Temporal Hallucination Detection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20977858.svg)](https://doi.org/10.5281/zenodo.20977858)
+
 Token-level hallucination detection using temporal signal modeling.
 This repository contains the code and scripts to reproduce all experiments
 from the paper.

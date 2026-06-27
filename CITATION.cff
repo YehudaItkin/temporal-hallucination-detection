@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the preprint using the metadata below."
+title: "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection"
+authors:
+  - family-names: Itkin
+    given-names: Igor
+    orcid: "https://orcid.org/0009-0004-9513-8463"
+    affiliation: "Independent Researcher"
+type: article
+year: 2026
+month: 6
+doi: "10.5281/zenodo.20977858"
+url: "https://doi.org/10.5281/zenodo.20977858"
+license: CC-BY-4.0
+repository-code: "https://github.com/YehudaItkin/temporal-hallucination-detection"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20977858"
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.20977859"
+    description: "Version DOI (v1, 2026-06-28)"
